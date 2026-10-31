@@ -1,12 +1,14 @@
 {
-  "name": "Seef Sandwich",
-  "short_name": "Seef",
-  "description": "منيو مطعم سيف سندوتش أونلاين",
-  "start_url": "/index.html",
+  "id": "./",
+  "name": "ساندوتش سيف",
+  "short_name": "ساندوتش سيف",
+  "description": "المنيو الرسمي لمطعم ساندوتش سيف أونلاين",
+  "start_url": "./index.html",
+  "scope": "./",
   "display": "standalone",
   "orientation": "portrait",
   "background_color": "#ffffff",
-  "theme_color": "#ffffff",
+  "theme_color": "#11291b",
   "icons": [
     {
       "src": "images/logosief.png",
